@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/database/</link>
+    <description>Recent content in Database on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL Export Table to CSV</title>
+      <link>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</link>
+      <pubDate>Tue, 09 Mar 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</guid>
+      <description>Sometimes we need keed data in some useful format and read it by available methods like Microsoft Excel, Google Spreadsheet, Libre Office, or something like that. In this post, I will show various techniques of how to export MySQL tables to a CSV file. The CSV stands for comma separated values. It will be useful to have data from MySQL database in CSV file format because you can analyze and format the data in the way you want.</description>
+    </item>
+    
+  </channel>
+</rss>

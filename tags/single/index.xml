@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/single/</link>
+    <description>Recent content in Single on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/single/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Circular Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</guid>
+      <description>What is Circular Linked List? In single linked list, every node points to its next node in the sequence and the last node points NULL. But in circular linked list, every node points to its next node in the sequence but the last node points to the first node in the list.
+A circular linked list is a sequence of elements in which every element has a link to its next element in the sequence and the last element has a link to the first element.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C/C&#43;&#43; on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/c/c&#43;&#43;/</link>
+    <description>Recent content in C/C&#43;&#43; on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lvivpnu.github.io/tags/c/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A FIFO Buffer Implementation</title>
+      <link>https://lvivpnu.github.io/blog/a_fifo_buffer_implementation/</link>
+      <pubDate>Sun, 23 Jun 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/a_fifo_buffer_implementation/</guid>
+      <description>A FIFO buffer is a useful way of storing data that arrives to a microcontroller peripheral asynchronously but cannot be read immediately. One example is storing bytes incoming on a UART. Buffering the bytes eases the real-time requirements for the embedded firmware.
+A FIFO buffer stores data on a first-in, first-out basis. The storage structure is typically an array of contiguous memory. Data is written to the “head” of the buffer and read from the “tail”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>single-board on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/single-board/</link>
+    <description>Recent content in single-board on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/single-board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operating Systems for ASUS Tinker Board</title>
+      <link>https://lvivpnu.github.io/blog/os-for-asus-tinker-board/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/os-for-asus-tinker-board/</guid>
+      <description>Hi dear reader. In previews article I had post How to connect DSI and CSI cable to tinker board with a some Frequently Asked Question. In this Article I had collected all available OS for single-board computer ASUS Tinker Board. Based on this computer i will to construct my robot with AI implementation and computer vision. Actually this the first reason why i had select Tinker Board that based on Rockchip RK3288 processor with 4x Cores &amp;ldquo;Cortex-A17&amp;rdquo; with frequency 1.</description>
+    </item>
+    
+    <item>
+      <title>How to connect DSI and CSI cable to tinker board</title>
+      <link>https://lvivpnu.github.io/blog/how-to-connect-dsi-and-csi-cable-to-tinker-board/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/how-to-connect-dsi-and-csi-cable-to-tinker-board/</guid>
+      <description>DSI, CSI cable can be use will no difference, those cable is the same. CSI connect to the middle of tinker board, please refer icon print on board as follows: DSI connect to the boundary of tinker board, please refer icon print on board as follows:
+DSI panel need extra 5V power. You can USB to supply, or thinker board can output 5V by GPIO PIN, red line is for positive(+)，black line is for negative(-) , as follow.</description>
+    </item>
+    
+  </channel>
+</rss>

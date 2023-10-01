@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrays on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/arrays/</link>
+    <description>Recent content in Arrays on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 12:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arrays</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/arrays/</link>
+      <pubDate>Fri, 23 Aug 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/arrays/</guid>
+      <description>Arrays Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+Instead of declaring individual variables, such as number0, number1, &amp;hellip;, and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and &amp;hellip;, numbers[99] to represent individual variables.</description>
+    </item>
+    
+  </channel>
+</rss>

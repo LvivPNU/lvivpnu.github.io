@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/</link>
+    <description>Recent content on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 10:35:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to copy files in Go</title>
+      <link>https://lvivpnu.github.io/blog/how_to_copy_files_in_go/</link>
+      <pubDate>Wed, 10 Mar 2021 10:35:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/how_to_copy_files_in_go/</guid>
+      <description>A robust and efficient copy is conceptually simple, but not simple to implement due to the need to handle a number of edge cases and system limitations that are imposed by the target operating system and it&amp;rsquo;s configuration.
+If you simply want to make a duplicate of the existing file you can use os.Link(srcName, dstName). This avoids having to move bytes around in the application and saves disk space. For large files, this is a significant time and space saving.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Export Table to CSV</title>
+      <link>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</link>
+      <pubDate>Tue, 09 Mar 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</guid>
+      <description>Sometimes we need keed data in some useful format and read it by available methods like Microsoft Excel, Google Spreadsheet, Libre Office, or something like that. In this post, I will show various techniques of how to export MySQL tables to a CSV file. The CSV stands for comma separated values. It will be useful to have data from MySQL database in CSV file format because you can analyze and format the data in the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Sorting Algorithms</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</link>
+      <pubDate>Fri, 23 Aug 2019 13:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</guid>
+      <description>A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations on the array, sometimes called a list, and outputs a sorted array. Sorting algorithms are often taught early in computer science classes as they provide a straightforward way to introduce other key computer science topics like Big-O notation, divide-and-conquer methods, and data structures such as binary trees, and heaps.</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/arrays/</link>
+      <pubDate>Fri, 23 Aug 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/arrays/</guid>
+      <description>Arrays Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+Instead of declaring individual variables, such as number0, number1, &amp;hellip;, and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and &amp;hellip;, numbers[99] to represent individual variables.</description>
+    </item>
+    
+    <item>
+      <title>A FIFO Buffer Implementation</title>
+      <link>https://lvivpnu.github.io/blog/a_fifo_buffer_implementation/</link>
+      <pubDate>Sun, 23 Jun 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/a_fifo_buffer_implementation/</guid>
+      <description>A FIFO buffer is a useful way of storing data that arrives to a microcontroller peripheral asynchronously but cannot be read immediately. One example is storing bytes incoming on a UART. Buffering the bytes eases the real-time requirements for the embedded firmware.
+A FIFO buffer stores data on a first-in, first-out basis. The storage structure is typically an array of contiguous memory. Data is written to the “head” of the buffer and read from the “tail”.</description>
+    </item>
+    
+    <item>
+      <title>Asymptotic Notations</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/asymptotic-notations/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/asymptotic-notations/</guid>
+      <description>What is Asymptotic Notation? Whenever we want to perform analysis of an algorithm, we need to calculate the complexity of that algorithm. But when we calculate the complexity of an algorithm it does not provide the exact amount of resource required. So instead of taking the exact amount of resource, we represent that complexity in a general form (Notation) which produces the basic nature of that algorithm. We use that general form (Notation) for analysis process.</description>
+    </item>
+    
+    <item>
+      <title>Circular Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</guid>
+      <description>What is Circular Linked List? In single linked list, every node points to its next node in the sequence and the last node points NULL. But in circular linked list, every node points to its next node in the sequence but the last node points to the first node in the list.
+A circular linked list is a sequence of elements in which every element has a link to its next element in the sequence and the last element has a link to the first element.</description>
+    </item>
+    
+    <item>
+      <title>Double Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</guid>
+      <description>What is Double Linked List? In a single linked list, every node has a link to its next node in the sequence. So, we can traverse from one node to another node only in one direction and we can not traverse back. We can solve this kind of problem by using a double linked list. A double linked list can be defined as follows&amp;hellip;
+Double linked list is a sequence of elements in which every element has links to its previous element and next element in the sequence.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Algorithms</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/introduction_to_algorithms/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/introduction_to_algorithms/</guid>
+      <description>What is an algorithm? An algorithm is a step by step procedure to solve a problem. In normal language, the algorithm is defined as a sequence of statements which are used to perform a task. In computer science, an algorithm can be defined as follows&amp;hellip;
+An algorithm is a sequence of unambiguous instructions used for solving a problem, which can be implemented (as a program) on a computer.
+Algorithms are used to convert our problem solution into step by step statements.</description>
+    </item>
+    
+    <item>
+      <title>Linear &amp; Non-Linear Data Structures</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</guid>
+      <description>What is Data Structure? Whenever we want to work with a large amount of data, then organizing that data is very important. If that data is not organized effectively, it is very difficult to perform any task on that data. If it is organized effectively then any operation can be performed easily on that data. A data structure can be defined as follows&amp;hellip;
+Data structure is a method of organizing a large amount of data more efficiently so that any operation on that data becomes easy</description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</guid>
+      <description>What is Performance Analysis of an algorithm? If we want to go from city &amp;ldquo;A&amp;rdquo; to city &amp;ldquo;B&amp;rdquo;, there can be many ways of doing this. We can go by flight, by bus, by train and also by bicycle. Depending on the availability and convenience, we choose the one which suits us. Similarly, in computer science, there are multiple algorithms to solve a problem. When we have more than one algorithm to solve a problem, we need to select the best one.</description>
+    </item>
+    
+    <item>
+      <title>Single Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</guid>
+      <description>What is Linked List? When we want to work with an unknown number of data values, we use a linked list data structure to organize that data. The linked list is a linear data structure that contains a sequence of elements such that each element links to its next element in the sequence. Each element in a linked list is called &amp;ldquo;Node&amp;rdquo;.
+What is Single Linked List? Simply a list is a sequence of data, and the linked list is a sequence of data linked with each other.</description>
+    </item>
+    
+    <item>
+      <title>Space Complexity</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/space-complexity/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/space-complexity/</guid>
+      <description>What is Space complexity? When we design an algorithm to solve a problem, it needs some computer memory to complete its execution. For any algorithm, memory is required for the following purposes&amp;hellip;
+To store program instructions. To store constant values. To store variable values. And for few other things like funcion calls, jumping statements etc,. Space complexity of an algorithm can be defined as follows&amp;hellip;
+Total amount of computer memory required by an algorithm to complete its execution is called as space complexity of that algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Time Complexity</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/time-complexity/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/time-complexity/</guid>
+      <description>What is Time complexity? Every algorithm requires some amount of computer time to execute its instruction to perform the task. This computer time required is called time complexity. The time complexity of an algorithm can be defined as follows&amp;hellip;
+The time complexity of an algorithm is the total amount of time required by an algorithm to complete its execution.
+Generally, the running time of an algorithm depends upon the following&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Live Webcam Streaming using VLC on the Command Line</title>
+      <link>https://lvivpnu.github.io/blog/live-webcam-streaming-using-vlc-on-the-command-line/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/live-webcam-streaming-using-vlc-on-the-command-line/</guid>
+      <description>The following are notes on using VLC as both server and server to stream a webcam from a ender across a LAN to multiple receivers. It focusses only on internal LAN streaming, using RTSP, UDP and RTP as the streaming solutions, and working via the command line in Linux. VLC offers other form of streaming (e.g. HTTP, which are covered in some of my older notes) and the GUI is quite good for selecting streaming options.</description>
+    </item>
+    
+    <item>
+      <title>Operating Systems for ASUS Tinker Board</title>
+      <link>https://lvivpnu.github.io/blog/os-for-asus-tinker-board/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/os-for-asus-tinker-board/</guid>
+      <description>Hi dear reader. In previews article I had post How to connect DSI and CSI cable to tinker board with a some Frequently Asked Question. In this Article I had collected all available OS for single-board computer ASUS Tinker Board. Based on this computer i will to construct my robot with AI implementation and computer vision. Actually this the first reason why i had select Tinker Board that based on Rockchip RK3288 processor with 4x Cores &amp;ldquo;Cortex-A17&amp;rdquo; with frequency 1.</description>
+    </item>
+    
+    <item>
+      <title>Drone Communicator Interface</title>
+      <link>https://lvivpnu.github.io/projects/8/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/8/</guid>
+      <description>Application written on C++ with use OpenGL and OpenCV for communicate with available drones in the networks. Also will show drone status and control it. \
+*Image downloaded from internet and will be changed for screenshot.
+Status: Active Development.</description>
+    </item>
+    
+    <item>
+      <title>How to connect DSI and CSI cable to tinker board</title>
+      <link>https://lvivpnu.github.io/blog/how-to-connect-dsi-and-csi-cable-to-tinker-board/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/how-to-connect-dsi-and-csi-cable-to-tinker-board/</guid>
+      <description>DSI, CSI cable can be use will no difference, those cable is the same. CSI connect to the middle of tinker board, please refer icon print on board as follows: DSI connect to the boundary of tinker board, please refer icon print on board as follows:
+DSI panel need extra 5V power. You can USB to supply, or thinker board can output 5V by GPIO PIN, red line is for positive(+)，black line is for negative(-) , as follow.</description>
+    </item>
+    
+    <item>
+      <title>SSH Examples, Tips &amp; Tunnels</title>
+      <link>https://lvivpnu.github.io/blog/ssh-examples-tips-tunnels/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/ssh-examples-tips-tunnels/</guid>
+      <description>Practical SSH examples to take your remote system admin game to the next level. Commands and tips to not only use SSH but master ways to move around the network.
+Knowing a few ssh tricks will benefit any system administrator, network engineer or security professional.
+Practical SSH examples
+SSH Socks Proxy SSH Tunnel (Port Forward) SSH Tunnel to Secondary Host Reverse SSH Tunnel SSH Reverse Proxy Establish VPN over SSH Copy your SSH key (ssh-copy-id) Run Command Remotely (non-interactive) Remote Packet Capture &amp;amp; View in Wireshark SSH Copy Folder from Local to Remote Remote GUI Applications with SSH x11 Forwarding12.</description>
+    </item>
+    
+    <item>
+      <title>Mathematics Primer for 3D Software Developer (Coordinate Systems)</title>
+      <link>https://lvivpnu.github.io/blog/math-primer-coordinate-systems/</link>
+      <pubDate>Fri, 12 Apr 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/math-primer-coordinate-systems/</guid>
+      <description>This article assumes you have a minimum understanding vectors, and matrices. I will simply show applications of vectors and matrices and how they apply to game programming.
+In this article, I would like to provide a brief math primer for people who would like to get involved in game programming. This is not an exhaustive explanation of all the math theory that one will have to know in order to be a successful game programmer, but it’s the very minimum amount of information that is necessary to know before you can begin as a game programmer.</description>
+    </item>
+    
+    <item>
+      <title>MPU-9250 Accelerometer, Gyroscope and Magnetometer Code</title>
+      <link>https://lvivpnu.github.io/blog/mpu-9250-accelerometer-gyroscope-and-magnetometer-code/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/mpu-9250-accelerometer-gyroscope-and-magnetometer-code/</guid>
+      <description>In this Article you will get the code and library for MPU-9250 module. Watch video instruction on how to use MPU-9250.
+Get MPU-9250 Library from Github Data sheet for MPU-9250 MPU-9250 Register Map Get Library from Robojax.com I2C scanner Code and Video Guide to interfacing MPU9250 Gyroscope, Magnetometer and Accelerometer with a Raspberry Pi Arduino Nano: Accelerometer Gyroscope Compass MPU9250 I2C Sensor With Visuino Drivers for MPU9250 IMU Sensor /* * Library: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Awesome C&#43;&#43;</title>
+      <link>https://lvivpnu.github.io/blog/awesome-cpp/</link>
+      <pubDate>Fri, 01 Feb 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/awesome-cpp/</guid>
+      <description>Awesome C++
+Standard Libraries Frameworks Artificial Intelligence Asynchronous Event Loop Audio Biology BitTorrent CLI Compression Concurrency Containers Cryptography Database Debug Game Engine GUI Graphics Image Processing Internationalization Inter-process communication JSON Logging Machine Learning Math Memory Allocation Multimedia Networking PDF Physics Regular Expression Robotics Scientific Computing Scripting Serialization Sorting Video Virtual Machines Web Application Framework XML Miscellaneous Software
+Compiler Online Compiler Debugger Integrated Development Environment Build Systems Static Code Analysis Coding Style Tools Resources</description>
+    </item>
+    
+    <item>
+      <title>to Lviv - Tourist website</title>
+      <link>https://lvivpnu.github.io/projects/4/</link>
+      <pubDate>Mon, 31 Dec 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/4/</guid>
+      <description>Information tourism portal of Lviv region - search of tours, reservation of apartments, filter of restaurants by type of cuisine, places of recreation, and business meetups, geolocation.
+Web Development geolocation, jquery, javascript, docker, apache-solr, drupal, object-oriented-php, twitter-bootstrap
+Status: in progress&amp;hellip;
+Link: https://tolviv.com</description>
+    </item>
+    
+    <item>
+      <title>SPA - Serial Port Analyzer</title>
+      <link>https://lvivpnu.github.io/projects/5/</link>
+      <pubDate>Fri, 21 Dec 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/5/</guid>
+      <description>Cross platform system utility (MacOS X, Linux, Windows) for serial ports monitoring UART RS-232/422/485. The program monitors, displays, logs and analyzes all serial port activity in a system. Perfect software solution for serial port monitoring.
+Status: in progress&amp;hellip;
+Link: https://github.com/eneus/SPA</description>
+    </item>
+    
+    <item>
+      <title>Awal 10</title>
+      <link>https://lvivpnu.github.io/projects/7/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/7/</guid>
+      <description>News WEB site for Arabian world. Customer asked about full redesign and data restructe WEB site based on WordPress CMS.
+Status: Done.
+Link: http://awal10.com/</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Docker Container</title>
+      <link>https://lvivpnu.github.io/projects/6/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/6/</guid>
+      <description>Distribution for FrontEnd developer and generate static websites.
+Design is not just what it looks like and feels like. Design is how it works.
+Status: Done.
+Link: https://github.com/eneus/jekyll</description>
+    </item>
+    
+    <item>
+      <title>Drupal8 - Unable to determine class for field...</title>
+      <link>https://lvivpnu.github.io/blog/drupal8-unable-to-determine-field/</link>
+      <pubDate>Fri, 13 Jul 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/drupal8-unable-to-determine-field/</guid>
+      <description>One possible way is that your module is missing from the codebase or has been improperly uninstalled and you&amp;rsquo;ve still a field which is using that missing module.
+Try the following drush commands to remove the broken field:
+drush sqlq &amp;#34;DELETE FROM cache_config&amp;#34; drush sqlq &amp;#34;DELETE FROM config WHERE name = &amp;#39;field.storage.xxx.xxx&amp;#39; OR data LIKE &amp;#39;%field.storage.xxx.xxx%&amp;#39;&amp;#34; drush sqlq &amp;#34;DELETE FROM config_snapshot WHERE name = &amp;#39;field.storage.xxx.xxx&amp;#39; OR data LIKE &amp;#39;%field.storage.xxx.xxx%&amp;#39;&amp;#34; Warning: Don&amp;rsquo;t execute above commands on master/live database.</description>
+    </item>
+    
+    <item>
+      <title>Homeless pets</title>
+      <link>https://lvivpnu.github.io/projects/3/</link>
+      <pubDate>Tue, 22 May 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/3/</guid>
+      <description>Information base of animals Kharkiv Center for the Content of Homeless Animals. Search for lost, registration and adoption of homeless animals. Work with volunteers. Adaptive layout, filters. Integration with social media.
+Web Development drupal, object-oriented-php, responsive-design, web-design
+Status: Done.
+Link: https://animals-city.org/</description>
+    </item>
+    
+    <item>
+      <title>&#39;Back to Top&#39; Button for your website</title>
+      <link>https://lvivpnu.github.io/blog/back-to-op-button-to-yourwebsite/</link>
+      <pubDate>Sun, 30 Apr 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/back-to-op-button-to-yourwebsite/</guid>
+      <description>A Back To Top button is something that a lot of you have probably seen on many websites. It’s that arrow that appears at the bottom right or left corner of a web page when you start scrolling it. When clicked, it brings you back to the top of the page.
+If you want to add a back to top button while you&amp;rsquo;re still designing a website, or just curious about how you can build one on your own, this article for you.</description>
+    </item>
+    
+    <item>
+      <title>How to use Jekyll Docker container</title>
+      <link>https://lvivpnu.github.io/blog/how-to-use-jekyll-container/</link>
+      <pubDate>Mon, 17 Apr 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/how-to-use-jekyll-container/</guid>
+      <description>Jekyll&amp;rsquo;s Docker Container with Demo Content and demo site.
+Plugins included:
+- Jekyll: 3.8.3 -- jekyll-paginate -- jekyll-sitemap -- jekyll-feed -- jekyll-multisite -- jekyll-github-metadata -- jekyll-seo-tag -- jekyll-watch -- jekyll-sass-converter -- jekyll-assets -- jekyll-multiple-languages-plugin - Compass: 1.0.3 - NodeJS: 8.9.3 -- NPM: 5.5.1 -- Yarn: 1.3.2 The first of all: Install Docker:
+On Linux Ubuntu/Debian:
+https://docs.docker.com/install/linux/docker-ce/ubuntu/ https://docs.docker.com/install/linux/docker-ce/debian/
+On MacOS:
+https://docs.docker.com/docker-for-mac/install/
+On Windows:
+https://docs.docker.com/docker-for-windows/install/
+Install Docker Compose:
+https://docs.docker.com/compose/install/ Download repository:
+git clone git@github.</description>
+    </item>
+    
+    <item>
+      <title>Business Security Center</title>
+      <link>https://lvivpnu.github.io/projects/1/</link>
+      <pubDate>Wed, 12 Jun 2013 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/1/</guid>
+      <description>Business Security Center (BSC) website had needed SEO optimization and a total redesign and data restructure for securing high professional level of services and achievement of maximum efficiency of company activity.
+First required for developing was to provide comfort navigation and quick search of services, products and equipment, since the company granting a full range of security and safety services for private individuals or companies as well as sells integrated security solutions.</description>
+    </item>
+    
+    <item>
+      <title>City Events</title>
+      <link>https://lvivpnu.github.io/projects/2/</link>
+      <pubDate>Mon, 12 Mar 2012 14:39:16 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/2/</guid>
+      <description>City Events - Started as distribution and implemented like regional WEBsite &amp;lsquo;Моя Жовківщина&amp;rsquo;.
+Regional news portal with news, blogs, organizations, events, publications. Registration of users, contests, photo reports. Search engine ApacheSolr. Filter, Geolocation, social integration, SEO optimization. Development based on Docker Containers with flexibility extensions.
+Web Development drupal, php, twitter-bootstrap, responsive-design
+Status: Done.
+Link: https://myzhovkva.com/</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://lvivpnu.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/gallery/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Greetings!</title>
+      <link>https://lvivpnu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/about/</guid>
+      <description>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://lvivpnu.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/search/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPU-9250 Accelerometer, Gyroscope and Magnetometer Code</title>
+      <link>https://lvivpnu.github.io/blog/mpu-9250-accelerometer-gyroscope-and-magnetometer-code/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/mpu-9250-accelerometer-gyroscope-and-magnetometer-code/</guid>
+      <description>In this Article you will get the code and library for MPU-9250 module. Watch video instruction on how to use MPU-9250.
+Get MPU-9250 Library from Github Data sheet for MPU-9250 MPU-9250 Register Map Get Library from Robojax.com I2C scanner Code and Video Guide to interfacing MPU9250 Gyroscope, Magnetometer and Accelerometer with a Raspberry Pi Arduino Nano: Accelerometer Gyroscope Compass MPU9250 I2C Sensor With Visuino Drivers for MPU9250 IMU Sensor /* * Library: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Awesome C&#43;&#43;</title>
+      <link>https://lvivpnu.github.io/blog/awesome-cpp/</link>
+      <pubDate>Fri, 01 Feb 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/awesome-cpp/</guid>
+      <description>Awesome C++
+Standard Libraries Frameworks Artificial Intelligence Asynchronous Event Loop Audio Biology BitTorrent CLI Compression Concurrency Containers Cryptography Database Debug Game Engine GUI Graphics Image Processing Internationalization Inter-process communication JSON Logging Machine Learning Math Memory Allocation Multimedia Networking PDF Physics Regular Expression Robotics Scientific Computing Scripting Serialization Sorting Video Virtual Machines Web Application Framework XML Miscellaneous Software
+Compiler Online Compiler Debugger Integrated Development Environment Build Systems Static Code Analysis Coding Style Tools Resources</description>
+    </item>
+    
+  </channel>
+</rss>

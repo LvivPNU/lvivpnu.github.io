@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Linked List on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/single-linked-list/</link>
+    <description>Recent content in Single Linked List on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/single-linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</guid>
+      <description>What is Linked List? When we want to work with an unknown number of data values, we use a linked list data structure to organize that data. The linked list is a linear data structure that contains a sequence of elements such that each element links to its next element in the sequence. Each element in a linked list is called &amp;ldquo;Node&amp;rdquo;.
+What is Single Linked List? Simply a list is a sequence of data, and the linked list is a sequence of data linked with each other.</description>
+    </item>
+    
+  </channel>
+</rss>

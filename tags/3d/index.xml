@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/3d/</link>
+    <description>Recent content in 3D on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 14:51:12 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics Primer for 3D Software Developer (Coordinate Systems)</title>
+      <link>https://lvivpnu.github.io/blog/math-primer-coordinate-systems/</link>
+      <pubDate>Fri, 12 Apr 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/math-primer-coordinate-systems/</guid>
+      <description>This article assumes you have a minimum understanding vectors, and matrices. I will simply show applications of vectors and matrices and how they apply to game programming.
+In this article, I would like to provide a brief math primer for people who would like to get involved in game programming. This is not an exhaustive explanation of all the math theory that one will have to know in order to be a successful game programmer, but it’s the very minimum amount of information that is necessary to know before you can begin as a game programmer.</description>
+    </item>
+    
+  </channel>
+</rss>

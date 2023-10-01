@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/projects/</link>
+    <description>Recent content in Projects on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Communicator Interface</title>
+      <link>https://lvivpnu.github.io/projects/8/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/8/</guid>
+      <description>Application written on C++ with use OpenGL and OpenCV for communicate with available drones in the networks. Also will show drone status and control it. \
+*Image downloaded from internet and will be changed for screenshot.
+Status: Active Development.</description>
+    </item>
+    
+    <item>
+      <title>to Lviv - Tourist website</title>
+      <link>https://lvivpnu.github.io/projects/4/</link>
+      <pubDate>Mon, 31 Dec 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/4/</guid>
+      <description>Information tourism portal of Lviv region - search of tours, reservation of apartments, filter of restaurants by type of cuisine, places of recreation, and business meetups, geolocation.
+Web Development geolocation, jquery, javascript, docker, apache-solr, drupal, object-oriented-php, twitter-bootstrap
+Status: in progress&amp;hellip;
+Link: https://tolviv.com</description>
+    </item>
+    
+    <item>
+      <title>SPA - Serial Port Analyzer</title>
+      <link>https://lvivpnu.github.io/projects/5/</link>
+      <pubDate>Fri, 21 Dec 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/5/</guid>
+      <description>Cross platform system utility (MacOS X, Linux, Windows) for serial ports monitoring UART RS-232/422/485. The program monitors, displays, logs and analyzes all serial port activity in a system. Perfect software solution for serial port monitoring.
+Status: in progress&amp;hellip;
+Link: https://github.com/eneus/SPA</description>
+    </item>
+    
+    <item>
+      <title>Awal 10</title>
+      <link>https://lvivpnu.github.io/projects/7/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/7/</guid>
+      <description>News WEB site for Arabian world. Customer asked about full redesign and data restructe WEB site based on WordPress CMS.
+Status: Done.
+Link: http://awal10.com/</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Docker Container</title>
+      <link>https://lvivpnu.github.io/projects/6/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/6/</guid>
+      <description>Distribution for FrontEnd developer and generate static websites.
+Design is not just what it looks like and feels like. Design is how it works.
+Status: Done.
+Link: https://github.com/eneus/jekyll</description>
+    </item>
+    
+    <item>
+      <title>Homeless pets</title>
+      <link>https://lvivpnu.github.io/projects/3/</link>
+      <pubDate>Tue, 22 May 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/3/</guid>
+      <description>Information base of animals Kharkiv Center for the Content of Homeless Animals. Search for lost, registration and adoption of homeless animals. Work with volunteers. Adaptive layout, filters. Integration with social media.
+Web Development drupal, object-oriented-php, responsive-design, web-design
+Status: Done.
+Link: https://animals-city.org/</description>
+    </item>
+    
+    <item>
+      <title>Business Security Center</title>
+      <link>https://lvivpnu.github.io/projects/1/</link>
+      <pubDate>Wed, 12 Jun 2013 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/1/</guid>
+      <description>Business Security Center (BSC) website had needed SEO optimization and a total redesign and data restructure for securing high professional level of services and achievement of maximum efficiency of company activity.
+First required for developing was to provide comfort navigation and quick search of services, products and equipment, since the company granting a full range of security and safety services for private individuals or companies as well as sells integrated security solutions.</description>
+    </item>
+    
+    <item>
+      <title>City Events</title>
+      <link>https://lvivpnu.github.io/projects/2/</link>
+      <pubDate>Mon, 12 Mar 2012 14:39:16 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/projects/2/</guid>
+      <description>City Events - Started as distribution and implemented like regional WEBsite &amp;lsquo;Моя Жовківщина&amp;rsquo;.
+Regional news portal with news, blogs, organizations, events, publications. Registration of users, contests, photo reports. Search engine ApacheSolr. Filter, Geolocation, social integration, SEO optimization. Development based on Docker Containers with flexibility extensions.
+Web Development drupal, php, twitter-bootstrap, responsive-design
+Status: Done.
+Link: https://myzhovkva.com/</description>
+    </item>
+    
+  </channel>
+</rss>

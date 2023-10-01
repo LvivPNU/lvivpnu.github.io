@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/video/</link>
+    <description>Recent content in video on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live Webcam Streaming using VLC on the Command Line</title>
+      <link>https://lvivpnu.github.io/blog/live-webcam-streaming-using-vlc-on-the-command-line/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/live-webcam-streaming-using-vlc-on-the-command-line/</guid>
+      <description>The following are notes on using VLC as both server and server to stream a webcam from a ender across a LAN to multiple receivers. It focusses only on internal LAN streaming, using RTSP, UDP and RTP as the streaming solutions, and working via the command line in Linux. VLC offers other form of streaming (e.g. HTTP, which are covered in some of my older notes) and the GUI is quite good for selecting streaming options.</description>
+    </item>
+    
+  </channel>
+</rss>

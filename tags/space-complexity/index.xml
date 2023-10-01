@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space Complexity on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/space-complexity/</link>
+    <description>Recent content in Space Complexity on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/space-complexity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Complexity</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/space-complexity/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/space-complexity/</guid>
+      <description>What is Space complexity? When we design an algorithm to solve a problem, it needs some computer memory to complete its execution. For any algorithm, memory is required for the following purposes&amp;hellip;
+To store program instructions. To store constant values. To store variable values. And for few other things like funcion calls, jumping statements etc,. Space complexity of an algorithm can be defined as follows&amp;hellip;
+Total amount of computer memory required by an algorithm to complete its execution is called as space complexity of that algorithm.</description>
+    </item>
+    
+  </channel>
+</rss>

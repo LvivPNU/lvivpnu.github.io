@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips &amp; Tunnels on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/tips-tunnels/</link>
+    <description>Recent content in Tips &amp; Tunnels on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/tips-tunnels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH Examples, Tips &amp; Tunnels</title>
+      <link>https://lvivpnu.github.io/blog/ssh-examples-tips-tunnels/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/ssh-examples-tips-tunnels/</guid>
+      <description>Practical SSH examples to take your remote system admin game to the next level. Commands and tips to not only use SSH but master ways to move around the network.
+Knowing a few ssh tricks will benefit any system administrator, network engineer or security professional.
+Practical SSH examples
+SSH Socks Proxy SSH Tunnel (Port Forward) SSH Tunnel to Secondary Host Reverse SSH Tunnel SSH Reverse Proxy Establish VPN over SSH Copy your SSH key (ssh-copy-id) Run Command Remotely (non-interactive) Remote Packet Capture &amp;amp; View in Wireshark SSH Copy Folder from Local to Remote Remote GUI Applications with SSH x11 Forwarding12.</description>
+    </item>
+    
+  </channel>
+</rss>

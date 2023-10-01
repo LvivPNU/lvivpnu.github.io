@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/mysql/</link>
+    <description>Recent content in MySQL on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySQL Export Table to CSV</title>
+      <link>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</link>
+      <pubDate>Tue, 09 Mar 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/mysql_export_table_to_csv/</guid>
+      <description>Sometimes we need keed data in some useful format and read it by available methods like Microsoft Excel, Google Spreadsheet, Libre Office, or something like that. In this post, I will show various techniques of how to export MySQL tables to a CSV file. The CSV stands for comma separated values. It will be useful to have data from MySQL database in CSV file format because you can analyze and format the data in the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Drupal8 - Unable to determine class for field...</title>
+      <link>https://lvivpnu.github.io/blog/drupal8-unable-to-determine-field/</link>
+      <pubDate>Fri, 13 Jul 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/drupal8-unable-to-determine-field/</guid>
+      <description>One possible way is that your module is missing from the codebase or has been improperly uninstalled and you&amp;rsquo;ve still a field which is using that missing module.
+Try the following drush commands to remove the broken field:
+drush sqlq &amp;#34;DELETE FROM cache_config&amp;#34; drush sqlq &amp;#34;DELETE FROM config WHERE name = &amp;#39;field.storage.xxx.xxx&amp;#39; OR data LIKE &amp;#39;%field.storage.xxx.xxx%&amp;#39;&amp;#34; drush sqlq &amp;#34;DELETE FROM config_snapshot WHERE name = &amp;#39;field.storage.xxx.xxx&amp;#39; OR data LIKE &amp;#39;%field.storage.xxx.xxx%&amp;#39;&amp;#34; Warning: Don&amp;rsquo;t execute above commands on master/live database.</description>
+    </item>
+    
+  </channel>
+</rss>

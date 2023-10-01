@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sorting on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/sorting/</link>
+    <description>Recent content in Sorting on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 13:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/sorting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorting Algorithms</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</link>
+      <pubDate>Fri, 23 Aug 2019 13:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</guid>
+      <description>A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations on the array, sometimes called a list, and outputs a sorted array. Sorting algorithms are often taught early in computer science classes as they provide a straightforward way to introduce other key computer science topics like Big-O notation, divide-and-conquer methods, and data structures such as binary trees, and heaps.</description>
+    </item>
+    
+  </channel>
+</rss>

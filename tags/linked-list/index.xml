@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linked List on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/linked-list/</link>
+    <description>Recent content in Linked List on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Circular Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</guid>
+      <description>What is Circular Linked List? In single linked list, every node points to its next node in the sequence and the last node points NULL. But in circular linked list, every node points to its next node in the sequence but the last node points to the first node in the list.
+A circular linked list is a sequence of elements in which every element has a link to its next element in the sequence and the last element has a link to the first element.</description>
+    </item>
+    
+    <item>
+      <title>Double Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</guid>
+      <description>What is Double Linked List? In a single linked list, every node has a link to its next node in the sequence. So, we can traverse from one node to another node only in one direction and we can not traverse back. We can solve this kind of problem by using a double linked list. A double linked list can be defined as follows&amp;hellip;
+Double linked list is a sequence of elements in which every element has links to its previous element and next element in the sequence.</description>
+    </item>
+    
+  </channel>
+</rss>

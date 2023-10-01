@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structures on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/data-structures/</link>
+    <description>Recent content in Data Structures on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear &amp; Non-Linear Data Structures</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</guid>
+      <description>What is Data Structure? Whenever we want to work with a large amount of data, then organizing that data is very important. If that data is not organized effectively, it is very difficult to perform any task on that data. If it is organized effectively then any operation can be performed easily on that data. A data structure can be defined as follows&amp;hellip;
+Data structure is a method of organizing a large amount of data more efficiently so that any operation on that data becomes easy</description>
+    </item>
+    
+  </channel>
+</rss>

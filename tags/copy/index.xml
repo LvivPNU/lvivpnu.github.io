@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>copy on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/copy/</link>
+    <description>Recent content in copy on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 10:35:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to copy files in Go</title>
+      <link>https://lvivpnu.github.io/blog/how_to_copy_files_in_go/</link>
+      <pubDate>Wed, 10 Mar 2021 10:35:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/how_to_copy_files_in_go/</guid>
+      <description>A robust and efficient copy is conceptually simple, but not simple to implement due to the need to handle a number of edge cases and system limitations that are imposed by the target operating system and it&amp;rsquo;s configuration.
+If you simply want to make a duplicate of the existing file you can use os.Link(srcName, dstName). This avoids having to move bytes around in the application and saves disk space. For large files, this is a significant time and space saving.</description>
+    </item>
+    
+  </channel>
+</rss>

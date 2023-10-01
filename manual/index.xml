@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Manual on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/manual/</link>
+    <description>Recent content in Online Manual on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 13:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/manual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorting Algorithms</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</link>
+      <pubDate>Fri, 23 Aug 2019 13:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/sorting-algorithms/</guid>
+      <description>A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations on the array, sometimes called a list, and outputs a sorted array. Sorting algorithms are often taught early in computer science classes as they provide a straightforward way to introduce other key computer science topics like Big-O notation, divide-and-conquer methods, and data structures such as binary trees, and heaps.</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/arrays/</link>
+      <pubDate>Fri, 23 Aug 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/arrays/</guid>
+      <description>Arrays Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+Instead of declaring individual variables, such as number0, number1, &amp;hellip;, and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and &amp;hellip;, numbers[99] to represent individual variables.</description>
+    </item>
+    
+    <item>
+      <title>Asymptotic Notations</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/asymptotic-notations/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/asymptotic-notations/</guid>
+      <description>What is Asymptotic Notation? Whenever we want to perform analysis of an algorithm, we need to calculate the complexity of that algorithm. But when we calculate the complexity of an algorithm it does not provide the exact amount of resource required. So instead of taking the exact amount of resource, we represent that complexity in a general form (Notation) which produces the basic nature of that algorithm. We use that general form (Notation) for analysis process.</description>
+    </item>
+    
+    <item>
+      <title>Circular Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/circular-linked-list/</guid>
+      <description>What is Circular Linked List? In single linked list, every node points to its next node in the sequence and the last node points NULL. But in circular linked list, every node points to its next node in the sequence but the last node points to the first node in the list.
+A circular linked list is a sequence of elements in which every element has a link to its next element in the sequence and the last element has a link to the first element.</description>
+    </item>
+    
+    <item>
+      <title>Double Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/double-linked-list/</guid>
+      <description>What is Double Linked List? In a single linked list, every node has a link to its next node in the sequence. So, we can traverse from one node to another node only in one direction and we can not traverse back. We can solve this kind of problem by using a double linked list. A double linked list can be defined as follows&amp;hellip;
+Double linked list is a sequence of elements in which every element has links to its previous element and next element in the sequence.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Algorithms</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/introduction_to_algorithms/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/introduction_to_algorithms/</guid>
+      <description>What is an algorithm? An algorithm is a step by step procedure to solve a problem. In normal language, the algorithm is defined as a sequence of statements which are used to perform a task. In computer science, an algorithm can be defined as follows&amp;hellip;
+An algorithm is a sequence of unambiguous instructions used for solving a problem, which can be implemented (as a program) on a computer.
+Algorithms are used to convert our problem solution into step by step statements.</description>
+    </item>
+    
+    <item>
+      <title>Linear &amp; Non-Linear Data Structures</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/linear-non-linear-data-structures/</guid>
+      <description>What is Data Structure? Whenever we want to work with a large amount of data, then organizing that data is very important. If that data is not organized effectively, it is very difficult to perform any task on that data. If it is organized effectively then any operation can be performed easily on that data. A data structure can be defined as follows&amp;hellip;
+Data structure is a method of organizing a large amount of data more efficiently so that any operation on that data becomes easy</description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</guid>
+      <description>What is Performance Analysis of an algorithm? If we want to go from city &amp;ldquo;A&amp;rdquo; to city &amp;ldquo;B&amp;rdquo;, there can be many ways of doing this. We can go by flight, by bus, by train and also by bicycle. Depending on the availability and convenience, we choose the one which suits us. Similarly, in computer science, there are multiple algorithms to solve a problem. When we have more than one algorithm to solve a problem, we need to select the best one.</description>
+    </item>
+    
+    <item>
+      <title>Single Linked List</title>
+      <link>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/data_structures/single-linked-list/</guid>
+      <description>What is Linked List? When we want to work with an unknown number of data values, we use a linked list data structure to organize that data. The linked list is a linear data structure that contains a sequence of elements such that each element links to its next element in the sequence. Each element in a linked list is called &amp;ldquo;Node&amp;rdquo;.
+What is Single Linked List? Simply a list is a sequence of data, and the linked list is a sequence of data linked with each other.</description>
+    </item>
+    
+    <item>
+      <title>Space Complexity</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/space-complexity/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/space-complexity/</guid>
+      <description>What is Space complexity? When we design an algorithm to solve a problem, it needs some computer memory to complete its execution. For any algorithm, memory is required for the following purposes&amp;hellip;
+To store program instructions. To store constant values. To store variable values. And for few other things like funcion calls, jumping statements etc,. Space complexity of an algorithm can be defined as follows&amp;hellip;
+Total amount of computer memory required by an algorithm to complete its execution is called as space complexity of that algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Time Complexity</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/time-complexity/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/time-complexity/</guid>
+      <description>What is Time complexity? Every algorithm requires some amount of computer time to execute its instruction to perform the task. This computer time required is called time complexity. The time complexity of an algorithm can be defined as follows&amp;hellip;
+The time complexity of an algorithm is the total amount of time required by an algorithm to complete its execution.
+Generally, the running time of an algorithm depends upon the following&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

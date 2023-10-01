@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance Analysis on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/performance-analysis/</link>
+    <description>Recent content in Performance Analysis on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/performance-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Analysis</title>
+      <link>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvivpnu.github.io/manual/algorithms/performance_analysis/</guid>
+      <description>What is Performance Analysis of an algorithm? If we want to go from city &amp;ldquo;A&amp;rdquo; to city &amp;ldquo;B&amp;rdquo;, there can be many ways of doing this. We can go by flight, by bus, by train and also by bicycle. Depending on the availability and convenience, we choose the one which suits us. Similarly, in computer science, there are multiple algorithms to solve a problem. When we have more than one algorithm to solve a problem, we need to select the best one.</description>
+    </item>
+    
+  </channel>
+</rss>

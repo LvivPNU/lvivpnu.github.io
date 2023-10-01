@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Lviv Polytechnic National University</title>
+    <link>https://lvivpnu.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Lviv Polytechnic National University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Apr 2017 12:52:36 +0600</lastBuildDate><atom:link href="https://lvivpnu.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Back to Top&#39; Button for your website</title>
+      <link>https://lvivpnu.github.io/blog/back-to-op-button-to-yourwebsite/</link>
+      <pubDate>Sun, 30 Apr 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://lvivpnu.github.io/blog/back-to-op-button-to-yourwebsite/</guid>
+      <description>A Back To Top button is something that a lot of you have probably seen on many websites. It’s that arrow that appears at the bottom right or left corner of a web page when you start scrolling it. When clicked, it brings you back to the top of the page.
+If you want to add a back to top button while you&amp;rsquo;re still designing a website, or just curious about how you can build one on your own, this article for you.</description>
+    </item>
+    
+  </channel>
+</rss>
